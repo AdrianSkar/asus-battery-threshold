@@ -20,3 +20,8 @@ Choose an alias like `batteryMax` and add the alias for your system replacing `P
 	# Update battery charging threshold
 	alias batteryMax="/PATH/battery-change-threshold.sh"
 	```
+
+
+---
+Resources:
+- [Local/backup article](./logix-article-backup.md)
