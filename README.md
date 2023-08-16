@@ -24,4 +24,5 @@ Choose an alias like `batteryMax` and add the alias for your system replacing `P
 
 ---
 Resources:
-- [Local/backup article](./logix-article-backup.md)
+- 📁[Local/backup article](./logix-article-backup.md)
+- 📁[.service file example](./battery-threshold.service)
