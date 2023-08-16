@@ -1,6 +1,7 @@
 # Quickly change charging threshold on specific Asus laptop models in Linux
 
-Following Logix's article on _[How to limit battery charging on Asus laptops on Linux](https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html)_, specifically/likely on ZenBook models, I created this repo in order to share and save instructions on how to easily change the threshold with simple commands rather than having to change the `.service` file each time. 
+Following Logix's article on _[How to limit battery charging on Asus laptops on Linux](https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html)_, specifically/likely on ZenBook models, I created this repo in order to share and save instructions on how to easily change the threshold with simple commands (like `batteryMax 80`) rather than having to change the `.service` file each time.
+
 
 Provided you followed the article instructions and have a working service that 
 follows the charge limit (some Arch distros have a UI setting to set an upper limit/threshold but won't work as of yet) you can follow these steps and change values just using `alias NUMBER` to change this threshold:
