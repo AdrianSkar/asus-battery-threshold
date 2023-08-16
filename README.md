@@ -25,5 +25,9 @@ Choose an alias like `batteryMax` and add the alias for your system replacing `P
 
 ---
 Resources:
-- 📁[Local/backup article](./logix-article-backup.md)
-- 📁[.service file example](./battery-threshold.service)
+- 📁 [Local/backup article](./logix-article-backup.md)
+- 📁 [.service file example](./battery-threshold.service)
+  
+Related repos:
+- ⌨️ [Keybindings - remap `{j, k, l, i}` and other keys to act as shortcuts when also pressing the CapsLock key](https://github.com/AdrianSkar/keybindings)
+- 👆 [Num/Touchpad switch service](https://github.com/mohamed-badaoui/asus-touchpad-numpad-driver)
